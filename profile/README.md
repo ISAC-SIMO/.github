@@ -17,3 +17,7 @@ With the support of IBM, Build Change has created a new open source artificial i
 - [ISAC-SIMO home page](https://www.isac-simo.net/)
 - [Contribute to ISAC-SIMO](https://www.isac-simo.net/docs/contribute/)
 - [Use AI to assess construction quality issues that impact home safety](https://developer.ibm.com/tutorials/use-ai-to-assess-construction-quality-issues-that-impact-home-safety/). Get started with ISAC-SIMO: Run the app, test it on your own building, and customize it with your own new model
+
+## Main repository
+
+- [ISAC-SIMO](https://github.com/ISAC-SIMO/ISAC-SIMO)

@@ -1,5 +1,7 @@
 # Welcome to the ISAC-SIMO project
 
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/static/v1?label=Slack&message=%23isac-simo&color=blue)](https://callforcode.org/slack)
+
 Intelligent Supervision Assistant for Construction is [A Call for Code® with The Linux Foundation](https://www.linuxfoundation.org/projects/call-for-code/) project created by [Build Change](https://buildchange.org/) with a grant from [IBM](https://developer.ibm.com/callforcode/solutions/build-change/).
 
 ## Background
